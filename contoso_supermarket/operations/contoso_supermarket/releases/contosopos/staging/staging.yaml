@@ -30,7 +30,7 @@ spec:
     cosmos:
       container: "pos"
       database: "contoso"
-      endpoint: https://contosoagora81faf.documents.azure.com:443
+      endpoint: https://contosoagora0060a.documents.azure.com:443
     point_of_sale:
       title: "Contoso Supermarket"
       new_category: "True"
