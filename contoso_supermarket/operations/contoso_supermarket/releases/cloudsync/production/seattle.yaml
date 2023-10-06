@@ -30,4 +30,4 @@ spec:
     cosmos:
       container: "Orders"
       database: "Orders"
-      endpoint: https://contosoagora8f49c.documents.azure.com:443
+      endpoint: https://contosoagorae621c.documents.azure.com:443
