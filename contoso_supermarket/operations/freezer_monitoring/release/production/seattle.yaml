@@ -18,7 +18,7 @@ spec:
     spec:
       chart: ./contoso_supermarket/operations/freezer_monitoring
   values:
-    acr_name: contosoagora81faf
+    acr_name: contosoagora0060a
     branch_name: "production"
     image_tag: v1.0
     github_user: __githubUser__
